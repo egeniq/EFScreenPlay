@@ -1,0 +1,95 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		C7F7DA9C1908F18C009E9974 /* UIViewController+StoryBoardAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIViewController+StoryBoardAdditions.h"; sourceTree = "<group>"; };
+		C7F7DA9D1908F18C009E9974 /* UIViewController+StoryBoardAdditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+StoryBoardAdditions.m"; sourceTree = "<group>"; };
+		C7F7DA9E1908F1D1009E9974 /* UIStoryBoard+StoryBoardAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIStoryBoard+StoryBoardAdditions.h"; sourceTree = "<group>"; };
+		C7F7DA9F1908F1D1009E9974 /* UIStoryBoard+StoryBoardAdditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIStoryBoard+StoryBoardAdditions.m"; sourceTree = "<group>"; };
+		C7F7DAA01908F444009E9974 /* EFScreenPlay.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = EFScreenPlay.podspec; sourceTree = "<group>"; };
+		C7F7DAA11908F4FD009E9974 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
+		C7F7DAA21908F4FD009E9974 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		C7F7DA941908F166009E9974 = {
+			isa = PBXGroup;
+			children = (
+				C7F7DAA01908F444009E9974 /* EFScreenPlay.podspec */,
+				C7F7DAA11908F4FD009E9974 /* LICENSE */,
+				C7F7DAA21908F4FD009E9974 /* README.md */,
+				C7F7DA9B1908F18C009E9974 /* Classes */,
+			);
+			sourceTree = "<group>";
+		};
+		C7F7DA9B1908F18C009E9974 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				C7F7DA9C1908F18C009E9974 /* UIViewController+StoryBoardAdditions.h */,
+				C7F7DA9D1908F18C009E9974 /* UIViewController+StoryBoardAdditions.m */,
+				C7F7DA9E1908F1D1009E9974 /* UIStoryBoard+StoryBoardAdditions.h */,
+				C7F7DA9F1908F1D1009E9974 /* UIStoryBoard+StoryBoardAdditions.m */,
+			);
+			name = Classes;
+			path = EFScreenPlay;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		C7F7DA951908F166009E9974 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = EF;
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = Egeniq;
+			};
+			buildConfigurationList = C7F7DA981908F166009E9974 /* Build configuration list for PBXProject "EFScreenPlay" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C7F7DA941908F166009E9974;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		C7F7DA991908F166009E9974 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		C7F7DA9A1908F166009E9974 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C7F7DA981908F166009E9974 /* Build configuration list for PBXProject "EFScreenPlay" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C7F7DA991908F166009E9974 /* Debug */,
+				C7F7DA9A1908F166009E9974 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C7F7DA951908F166009E9974 /* Project object */;
+}
