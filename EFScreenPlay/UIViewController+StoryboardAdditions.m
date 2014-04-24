@@ -8,7 +8,7 @@
 
 #import "UIViewController+StoryboardAdditions.h"
 
-#import "UIStoryBoard+StoryboardAdditions.h"
+#import "UIStoryboard+StoryboardAdditions.h"
 
 @implementation UIViewController (StoryboardAdditions)
 
