@@ -1,14 +1,14 @@
 //
-//  UIStoryBoard+StoryBoardAdditions.m
+//  UIStoryboard+StoryboardAdditions.m
 //  EFScreenPlay
 //
 //  Created by Johan Kool on 24/4/2014.
 //  Copyright (c) 2014 Egeniq. All rights reserved.
 //
 
-#import "UIStoryBoard+StoryBoardAdditions.h"
+#import "UIStoryboard+StoryboardAdditions.h"
 
-@implementation UIStoryBoard (StoryBoardAdditions)
+@implementation UIStoryboard (StoryboardAdditions)
 
 + (UIStoryboard *)storyboardWithShortName:(NSString *)name {
     NSString *postFix = @"iPad";

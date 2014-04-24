@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		C7F7DA9C1908F18C009E9974 /* UIViewController+StoryBoardAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIViewController+StoryBoardAdditions.h"; sourceTree = "<group>"; };
-		C7F7DA9D1908F18C009E9974 /* UIViewController+StoryBoardAdditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+StoryBoardAdditions.m"; sourceTree = "<group>"; };
-		C7F7DA9E1908F1D1009E9974 /* UIStoryBoard+StoryBoardAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIStoryBoard+StoryBoardAdditions.h"; sourceTree = "<group>"; };
-		C7F7DA9F1908F1D1009E9974 /* UIStoryBoard+StoryBoardAdditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIStoryBoard+StoryBoardAdditions.m"; sourceTree = "<group>"; };
+		C7F7DA9C1908F18C009E9974 /* UIViewController+StoryboardAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIViewController+StoryboardAdditions.h"; sourceTree = "<group>"; };
+		C7F7DA9D1908F18C009E9974 /* UIViewController+StoryboardAdditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+StoryboardAdditions.m"; sourceTree = "<group>"; };
+		C7F7DA9E1908F1D1009E9974 /* UIStoryboard+StoryboardAdditions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIStoryboard+StoryboardAdditions.h"; sourceTree = "<group>"; };
+		C7F7DA9F1908F1D1009E9974 /* UIStoryboard+StoryboardAdditions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIStoryboard+StoryboardAdditions.m"; sourceTree = "<group>"; };
 		C7F7DAA01908F444009E9974 /* EFScreenPlay.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = EFScreenPlay.podspec; sourceTree = "<group>"; };
 		C7F7DAA11908F4FD009E9974 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
 		C7F7DAA21908F4FD009E9974 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
@@ -30,10 +30,10 @@
 		C7F7DA9B1908F18C009E9974 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				C7F7DA9C1908F18C009E9974 /* UIViewController+StoryBoardAdditions.h */,
-				C7F7DA9D1908F18C009E9974 /* UIViewController+StoryBoardAdditions.m */,
-				C7F7DA9E1908F1D1009E9974 /* UIStoryBoard+StoryBoardAdditions.h */,
-				C7F7DA9F1908F1D1009E9974 /* UIStoryBoard+StoryBoardAdditions.m */,
+				C7F7DA9C1908F18C009E9974 /* UIViewController+StoryboardAdditions.h */,
+				C7F7DA9D1908F18C009E9974 /* UIViewController+StoryboardAdditions.m */,
+				C7F7DA9E1908F1D1009E9974 /* UIStoryboard+StoryboardAdditions.h */,
+				C7F7DA9F1908F1D1009E9974 /* UIStoryboard+StoryboardAdditions.m */,
 			);
 			name = Classes;
 			path = EFScreenPlay;

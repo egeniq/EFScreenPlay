@@ -1,5 +1,5 @@
 //
-//  UIViewController+StoryBoardAdditions.h
+//  UIViewController+StoryboardAdditions.h
 //  EFScreenPlay
 //
 //  Created by Ivo Jansch on 19/03/14.
@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface UIViewController (StoryBoardAdditions)
+@interface UIViewController (StoryboardAdditions)
 
 /**
  *  Presents initial view controller from a storyboard modally
